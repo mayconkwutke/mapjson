@@ -1,0 +1,11 @@
+// 20210225115245
+// https://gist.githubusercontent.com/isaqueprofeta/c9e4178a10e029ad9bb42bdd9dafb2b6/raw/443622ed4cc4886567d16dbea3603f40d0cf2a1a/capitais.json
+
+[
+  {
+    "key": "18",
+    "name": "NovoHorizonte",
+    "latitude": -10.9091,
+    "longitude": -37.0677
+  },
+]
